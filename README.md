@@ -1,6 +1,6 @@
 # Class Projects
 
-this collection of wensites are challenges/assignments from both class and online sources.
+this collection of websites are challenges/assignments from both class and online sources.
 
 ## Table of Contents
 
