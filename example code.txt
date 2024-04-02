@@ -1,0 +1,30 @@
+example code
+
+cards has five elements always
+    - img
+    - {titlelink}
+    - date 
+    - tags
+    - desrciption
+
+const start =       '<div class = "card"> /n '
+let card.img =        '<img class = "card-img" src = " + img + '>'
+let card.title =     '<h4> <a href = ' + link + '> ' +  title + ' </a> </h4> /n'
+let card.date =       '<h4 class = "card-date"></h4>'
+let card.tags =       '<h4 class = "card-tags"> </h4>' // will likely be a horizontal list
+let card.description = <p class = "card-description"></p>
+
+
+</div> "
+
+
+path one: i make empty cards to later be filled with another function
+    step one - 
+        x for loop that counts to desired number
+        x creates card elements upto number specified
+        - create the content for these cards
+        - fill the card content with the apporate content indexed correctly
+        - make this scrollable through buttons (next btn change 1-6 to 7-12)
+        
+styling - we could either use js to set classes whenever a btn is pressed that are already styled or we can use js to change the style based on what bt is pressed.
+
